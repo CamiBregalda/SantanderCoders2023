@@ -24,3 +24,6 @@ de 1.903,99 até 2.826,65 -            	7,5
 de 2.826,66 até 3.751,05 -            	15
 de 3.751,06 até 4.664,68 -           	 22,5
 Acima de 4.664,68	       -             27,5
+
+![image](https://github.com/CamiBregalda/SantanderCodes2023/assets/108535010/6505c48a-5b45-4779-b147-55187c05b970)
+
