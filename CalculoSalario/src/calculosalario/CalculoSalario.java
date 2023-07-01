@@ -49,7 +49,7 @@ public class CalculoSalario {
         return inss;
     }
 
-    public static double[] impostoRenda (double[] salBruto){
+    public static double[] impostoRenda(double[] salBruto){
 
         double[] impostoRenda = new double[5];
 
@@ -71,7 +71,7 @@ public class CalculoSalario {
         return impostoRenda;
     }
 
-    public static double[] calculoSalario (double[] salBruto, double[] inss, double[] impostoRenda){
+    public static double[] calculoSalario(double[] salBruto, double[] inss, double[] impostoRenda){
         double[] salLiquido = new double[5];
 
         for (int i = 0; i < salBruto.length; i++) {
