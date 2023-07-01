@@ -10,20 +10,7 @@ A saída do programa deve fornecer as seguintes informações:
   - Quanto pagou de Imposto de Renda.
   - Salário líquido.
 
-Calcule os descontos e o salário líquido com base nos valores abaixo:
-
-Salário	                  -   % Desconto INSS
-até 1.212,00	            -        7,5
-de 1212,01 até 2.427,35   -        	9
-de 2.427,36 até 3.641,03  -         12
-de 3.641,04 até 7.087,22  -       	14
-
-Salário	                 -  % Desconto Imposto de Renda
-até 1.903,98	           -               0
-de 1.903,99 até 2.826,65 -            	7,5
-de 2.826,66 até 3.751,05 -            	15
-de 3.751,06 até 4.664,68 -           	 22,5
-Acima de 4.664,68	       -             27,5
+Calcule os descontos e o salário líquido com base nas tabelas abaixo:
 
 ![image](https://github.com/CamiBregalda/SantanderCodes2023/assets/108535010/6505c48a-5b45-4779-b147-55187c05b970)
 
